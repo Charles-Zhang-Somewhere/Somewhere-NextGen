@@ -1,4 +1,5 @@
-# Somewhere-2
+# Somewhere-NextGen (Predecessor Design Concept for Somewhere 2)
+
 Next-generation personal information management system and desktop environment.
 
 # Design
